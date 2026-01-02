@@ -1,0 +1,15 @@
+requests==2.32.3
+python-dotenv==1.0.1
+streamlit>=1.39.0
+chromadb==0.5.5
+
+google-generativeai==0.5.2
+
+beautifulsoup4==4.12.3
+lxml==4.9.3
+html5lib==1.1
+
+tiktoken==0.5.2
+httpx==0.25.1
+
+rich==13.7.1

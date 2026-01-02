@@ -1,0 +1,23 @@
+# --- LLM Provider ---
+google-generativeai==0.5.2
+
+# --- Vector DB (RAG) ---
+chromadb==0.5.5
+
+# --- Token Counting (chunking) ---
+tiktoken==0.7.0
+
+# --- Backend API Server ---
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+
+# --- EDGAR Filing Scraping & Cleaning ---
+requests==2.31.0
+beautifulsoup4==4.12.3
+lxml==5.2.1
+
+# --- Environment & Utilities ---
+python-dotenv==1.0.1
+
+# --- Logging / Debugging ---
+rich==13.7.1

@@ -1,0 +1,43 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.log
+*.sqlite3
+
+# === Virtual Environment ===
+venv/
+.env/
+.env.bak/
+env/
+.venv/
+
+# === Environment Variables ===
+.env
+.env.local
+.env.*.local
+
+# === IDE & Editor Files ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# === Streamlit Cache ===
+.streamlit/
+.streamlit/secrets.toml
+
+# === Jupyter / Notebook ===
+.ipynb_checkpoints/
+
+# === System / OS Files ===
+.DS_Store
+Thumbs.db
+
+# === Build / Distribution ===
+build/
+dist/
+*.egg-info/
