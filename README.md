@@ -1,0 +1,2 @@
+# EDDIE-COMPLETE
+Eddie is an AI-powered financial research assistant that interprets natural language queries, retrieves authoritative SEC EDGAR filings (10-K, 8-K), and delivers precise, retrieval-grounded answers using a modular LLM + RAG architecture.
